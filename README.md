@@ -1,4 +1,5 @@
 Custom Terminal
+
 Overview
 This is a custom-built terminal application created in C++ using fundamental operating system concepts like process management, I/O redirection, and history management. It supports common shell functionalities, including command execution, handling input/output redirection, maintaining a history of commands, and a basic implementation of job control using process forking.
 
